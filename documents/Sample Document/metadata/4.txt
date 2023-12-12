@@ -1,0 +1,14 @@
+
+                    Slide Number 4
+                    Slide Title : What is Marketing?
+                    Slide Text : What is Marketing?Marketing is a broad term that encompasses a set of activities and processes designed to create, communicate, deliver, and exchange value with a target audience. The ultimate goal of marketing is to satisfy the needs and wants of customers while achieving the objectives of the organization.
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'What is Marketing?', 'left': 838200, 'top': 365125, 'width': 10515600, 'height': 1325563}
+{'chart_type': 'text', 'text': 'Marketing is a broad term that encompasses a set of activities and processes designed to create, communicate, deliver, and exchange value with a target audience. The ultimate goal of marketing is to satisfy the needs and wants of customers while achieving the objectives of the organization.', 'left': 838200, 'top': 1825625, 'width': 10515600, 'height': 4351338}

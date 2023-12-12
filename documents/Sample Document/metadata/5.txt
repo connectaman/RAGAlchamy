@@ -1,0 +1,26 @@
+
+                    Slide Number 5
+                    Slide Title : Different Sales Approach considered by A 
+                    Slide Text : Different Sales Approach considered by A 
+                    Slide Table : 
+                     
+ +--------------------+----------------------------------------------------------------------------------------------------+---------------------------------------+-----------------------------------------+
+|      Field 1       |                                              Field 2                                               |                Field 3                |                 Field 4                 |
++--------------------+----------------------------------------------------------------------------------------------------+---------------------------------------+-----------------------------------------+
+|   Sales Approach   |                                            Description                                             |                  Pros                 |                   Cons                  |
+|  In-person Sales   |                   Direct sales conducted face-to-face with potential customers.                    |       - Personalized interaction      |             - Limited reach             |
+|    Phone Sales     |             Sales conducted over the phone, often through cold calling or warm leads.              |            - Cost-effective           |          - Lack of visual cues          |
+|  Email Marketing   |             Sales communication through email campaigns, newsletters, and follow-ups.              |     - Cost-effective and scalable     |      - Risk of being marked as spam     |
+| Social Media Sales | Sales efforts leveraging social media platforms, including direct messaging and content marketing. |      - Access to a broad audience     | - Requires active social media presence |
+|  E-commerce Sales  |       Selling products or services online through a dedicated website or online marketplace.       |          - 24/7 accessibility         |       - Intense online competition      |
+| Content Marketing  |   Attracting and retaining customers through the creation and distribution of valuable content.    | - Establishes expertise and authority |       - Takes time to see results       |
++--------------------+----------------------------------------------------------------------------------------------------+---------------------------------------+-----------------------------------------+ 
+ 
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Different Sales Approach considered by A ', 'left': 838200, 'top': 365125, 'width': 10515600, 'height': 1325563}
+{'chart_type': 'table', 'text': '+--------------------+----------------------------------------------------------------------------------------------------+---------------------------------------+-----------------------------------------+\n|      Field 1       |                                              Field 2                                               |                Field 3                |                 Field 4                 |\n+--------------------+----------------------------------------------------------------------------------------------------+---------------------------------------+-----------------------------------------+\n|   Sales Approach   |                                            Description                                             |                  Pros                 |                   Cons                  |\n|  In-person Sales   |                   Direct sales conducted face-to-face with potential customers.                    |       - Personalized interaction      |             - Limited reach             |\n|    Phone Sales     |             Sales conducted over the phone, often through cold calling or warm leads.              |            - Cost-effective           |          - Lack of visual cues          |\n|  Email Marketing   |             Sales communication through email campaigns, newsletters, and follow-ups.              |     - Cost-effective and scalable     |      - Risk of being marked as spam     |\n| Social Media Sales | Sales efforts leveraging social media platforms, including direct messaging and content marketing. |      - Access to a broad audience     | - Requires active social media presence |\n|  E-commerce Sales  |       Selling products or services online through a dedicated website or online marketplace.       |          - 24/7 accessibility         |       - Intense online competition      |\n| Content Marketing  |   Attracting and retaining customers through the creation and distribution of valuable content.    | - Establishes expertise and authority |       - Takes time to see results       |\n+--------------------+----------------------------------------------------------------------------------------------------+---------------------------------------+-----------------------------------------+', 'left': 838199, 'top': 1825625, 'width': 10515600, 'height': 4682745}

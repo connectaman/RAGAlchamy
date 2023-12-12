@@ -1,0 +1,25 @@
+
+                    Slide Number 2
+                    Slide Title : Sales till date 2023
+                    Slide Text : Sales till date 2023
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                     
+ Chart Title : Sales of A,B,C Company from 2020 till date
+Chart Type : COLUMN_CLUSTERED (51)
++---+------+-----+-----+---+
+|   |      |  A  |  B  | C |
++---+------+-----+-----+---+
+| 0 | 2020 | 4.3 | 2.4 | 2 |
+| 1 | 2021 | 2.5 | 4.4 | 2 |
+| 2 | 2022 | 3.5 | 1.8 | 3 |
+| 3 | 2023 | 4.5 | 2.8 | 5 |
++---+------+-----+-----+---+ 
+ 
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Sales till date 2023', 'left': 838200, 'top': 365125, 'width': 10515600, 'height': 1325563}
+{'chart_type': 'chart', 'text': 'Chart Title : Sales of A,B,C Company from 2020 till date\nChart Type : COLUMN_CLUSTERED (51)\n+---+------+-----+-----+---+\n|   |      |  A  |  B  | C |\n+---+------+-----+-----+---+\n| 0 | 2020 | 4.3 | 2.4 | 2 |\n| 1 | 2021 | 2.5 | 4.4 | 2 |\n| 2 | 2022 | 3.5 | 1.8 | 3 |\n| 3 | 2023 | 4.5 | 2.8 | 5 |\n+---+------+-----+-----+---+', 'left': 838200, 'top': 1825625, 'width': 10515600, 'height': 4351338}

@@ -1,0 +1,25 @@
+
+                    Slide Number 3
+                    Slide Title : Quarterly Sales for A Company in 2023
+                    Slide Text : Quarterly Sales for A Company in 2023
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                     
+ Chart Title : 
+Chart Type : PIE (5)
++---+---------+-------+
+|   |         | Sales |
++---+---------+-------+
+| 0 | 1st Qtr |  8.2  |
+| 1 | 2nd Qtr |  3.2  |
+| 2 | 3rd Qtr |  1.4  |
+| 3 | 4th Qtr |  1.2  |
++---+---------+-------+ 
+ 
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Quarterly Sales for A Company in 2023', 'left': 838200, 'top': 365125, 'width': 10515600, 'height': 1325563}
+{'chart_type': 'chart', 'text': 'Chart Title : \nChart Type : PIE (5)\n+---+---------+-------+\n|   |         | Sales |\n+---+---------+-------+\n| 0 | 1st Qtr |  8.2  |\n| 1 | 2nd Qtr |  3.2  |\n| 2 | 3rd Qtr |  1.4  |\n| 3 | 4th Qtr |  1.2  |\n+---+---------+-------+', 'left': 838200, 'top': 1825625, 'width': 10515600, 'height': 4351338}

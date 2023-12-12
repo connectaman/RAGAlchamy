@@ -1,0 +1,14 @@
+
+                    Slide Number 1
+                    Slide Title : Sample Document
+                    Slide Text : Sample DocumentThis document provides information regarding sales 
+                    Slide Table : 
+                    
+                    Slide Charts Data : 
+                    
+                    Slide Image OCR Text : 
+                    
+                    
+
+{'chart_type': 'text', 'text': 'Sample Document', 'left': 1524000, 'top': 1122363, 'width': 9144000, 'height': 2387600}
+{'chart_type': 'text', 'text': 'This document provides information regarding sales ', 'left': 1524000, 'top': 3602038, 'width': 9144000, 'height': 1655762}
