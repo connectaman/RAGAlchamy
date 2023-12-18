@@ -60,9 +60,4 @@ class ChatOpenAI:
                 max_tokens=1500,
                 stream=False
             )
-        # response = openai.ChatCompletion.create(
-        #     engine = "abp-eu1-aihac1-openai-team-18", 
-        #     model=self.model_namemodel,
-        #     messages=self.messages,
-        #     temperature=0.0,)
         return response.choices[0]["message"]["content"].strip()
