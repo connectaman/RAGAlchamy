@@ -6,7 +6,7 @@ Our package empowers you to effortlessly extract and manipulate a wide range of 
 
 # Installation
 
-1. Make sure to hava python>=3.10
+1. Install / Check python verion -> python>=3.10
 2. Install all required packages
 ```
 pip install -r requirements.txt
