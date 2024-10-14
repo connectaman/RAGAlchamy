@@ -1,4 +1,4 @@
-# RAGAlchamy
+# RAGAlchamy (🥇 Winning Solution for ZS Hackathon)
 
 RAGAlchamy is a groundbreaking Python package designed to revolutionize the way you interact with PowerPoint presentations. 
 Our package empowers you to effortlessly extract and manipulate a wide range of content within PPT files, including text, charts, and even perform OCR (Optical Character Recognition) on images embedded in your presentations.
